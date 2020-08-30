@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Big_Nerd_Kotlin</string>
+    <string name="question_text">Canberra è la capitale dell\' Australia?</string>
+      <string name="vero">VERO</string>
+    <string name="falso">FALSO</string>
+</resources>
